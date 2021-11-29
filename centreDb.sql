@@ -1,9 +1,3 @@
-/*TERMINAL CODE:
-mysql -u shilvan -p
-mypassword
-source ~/Documents/Computing/trainingCentre/centreDb.sql
-*/
-
 /*CREATE DATABASE*/
 DROP DATABASE IF EXISTS trainingCentre;
 CREATE DATABASE trainingCentre;
